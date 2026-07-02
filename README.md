@@ -16,6 +16,7 @@ IT engineering leader focused on identity, endpoints, and automation. I spent 12
 - 🖥️ [mdm-compliance-dashboard](https://github.com/emiliorobles24/mdm-compliance-dashboard): case study, three MDMs reconciled into one asset source of truth with a real-time compliance dashboard
 - 📊 [small-business-ops-stack](https://github.com/emiliorobles24/small-business-ops-stack): case study, a complete business operations stack built end to end with AI pair-programming
 - 🔧 [plumbing-supply-case-study](https://github.com/emiliorobles24/plumbing-supply-case-study): case study, a client website plus an AI part-identification workflow that cut sourcing time from minutes to seconds
+- 🚀 [agency-growth-platform](https://github.com/emiliorobles24/agency-growth-platform): case study, an agency marketing site, a Claude-powered chat widget, and a Chrome extension that audits Google Business Profiles
 
 ## Things I've built at work
 
