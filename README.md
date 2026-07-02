@@ -15,6 +15,7 @@ IT engineering leader focused on identity, endpoints, and automation. I spent 12
 - 🔐 [okta-as-code](https://github.com/emiliorobles24/okta-as-code): identity lifecycle (JML) as code, Terraform for Okta plus Okta Workflows offboarding designs
 - 🖥️ [mdm-compliance-dashboard](https://github.com/emiliorobles24/mdm-compliance-dashboard): case study, three MDMs reconciled into one asset source of truth with a real-time compliance dashboard
 - 📊 [small-business-ops-stack](https://github.com/emiliorobles24/small-business-ops-stack): case study, a complete business operations stack built end to end with AI pair-programming
+- 🔧 [plumbing-supply-case-study](https://github.com/emiliorobles24/plumbing-supply-case-study): case study, a client website plus an AI part-identification workflow that cut sourcing time from minutes to seconds
 
 ## Things I've built at work
 
