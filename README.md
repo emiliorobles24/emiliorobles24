@@ -12,6 +12,7 @@ IT engineering leader focused on identity, endpoints, and automation. I spent 12
 
 ## Projects and case studies
 
+- ✨ [zero-touch-onboarding](https://github.com/emiliorobles24/zero-touch-onboarding): case study, the production joiner-mover-leaver system I ran: Workday to Okta to MDM, day-one-ready devices, near-zero manual touches
 - 🔐 [okta-as-code](https://github.com/emiliorobles24/okta-as-code): identity lifecycle (JML) as code, Terraform for Okta plus Okta Workflows offboarding designs
 - 🖥️ [mdm-compliance-dashboard](https://github.com/emiliorobles24/mdm-compliance-dashboard): case study, three MDMs reconciled into one asset source of truth with a real-time compliance dashboard
 - 📊 [small-business-ops-stack](https://github.com/emiliorobles24/small-business-ops-stack): case study, a complete business operations stack built end to end with AI pair-programming
