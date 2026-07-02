@@ -24,6 +24,7 @@ IT engineering leader focused on identity, endpoints, and automation. I spent 12
 - **Zero-touch onboarding:** a Workday to Okta provisioning chain plus Apple Business Manager auto-enrollment, so a new hire's device and access are ready on day one
 - **Proactive SLA alerting:** a Jira to Slack bot that pings before a ticket breaches, which took team SLA compliance to 95%+
 - **Service desks as products:** Jira Service Management buildouts for Finance, HR, and IT with SLAs, workflows, automations, and tailored portals
+- **Company-wide telephony:** designed and ran the Dialpad VOIP and IVR call flows for the whole company, reception, sales, customer service, and IT, across US and international offices, with AI-generated voice prompts (ElevenLabs)
 
 ## Find me
 
