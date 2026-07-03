@@ -26,6 +26,7 @@ IT engineering leader focused on identity, endpoints, and automation. I spent 12
 - **Service desks as products:** Jira Service Management buildouts for Finance, HR, and IT with SLAs, workflows, automations, and tailored portals
 - **Company-wide telephony:** designed and ran the Dialpad VOIP and IVR call flows for the whole company, reception, sales, customer service, and IT, across US and international offices, with AI-generated voice prompts (ElevenLabs)
 - **Company-wide enablement:** designed and delivered trainings on Jira, Confluence, Slack, and Dialpad for the whole company, from new hires to executives
+- **IT team ramp program:** built our new-hire onboarding end to end: a full training schedule, step-by-step documentation, SME sessions with team members across the SaaS stack, and weekly check-ins until fully ramped
 
 ## Find me
 
