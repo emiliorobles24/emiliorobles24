@@ -25,6 +25,7 @@ IT engineering leader focused on identity, endpoints, and automation. I spent 12
 - **Proactive SLA alerting:** a Jira to Slack bot that pings before a ticket breaches, which took team SLA compliance to 95%+
 - **Service desks as products:** Jira Service Management buildouts for Finance, HR, and IT with SLAs, workflows, automations, and tailored portals
 - **Company-wide telephony:** designed and ran the Dialpad VOIP and IVR call flows for the whole company, reception, sales, customer service, and IT, across US and international offices, with AI-generated voice prompts (ElevenLabs)
+- **Company-wide enablement:** designed and delivered trainings on Jira, Confluence, Slack, and Dialpad for the whole company, from new hires to executives
 
 ## Find me
 
